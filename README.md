@@ -65,12 +65,10 @@ The mission of WBTCC is to:
 ## Tags
 
 `#WrappedBitcoinCore` `#WBTCC` `#Bitcoin` `#WrappedBTC` `#Solana`  
-`#DeFi` `#Web3` `#Crypto` `#StableAsset` `#Token`  
-`#WrappedToken` `#SolanaMainnet` `#CrossChain` `#ProofOfReserves`  
+`#DeFi` `#Web3` `#Crypto` `#StableAsset` `#Token`  `#WrappedToken` `#SolanaMainnet` `#CrossChain` `#ProofOfReserves`  
 
 ---
 
 ## Disclaimer
 
-Wrapped Bitcoin Core (WBTCC) is a digital asset project designed to mirror the value of Bitcoin on Solana.  
-Participation in cryptocurrency projects involves financial risk. Please do your own research (DYOR) before investing or interacting with the token.  
+Wrapped Bitcoin Core (WBTCC) is a digital asset project designed to mirror the value of Bitcoin on Solana. Participation in cryptocurrency projects involves financial risk. Please do your own research (DYOR) before investing or interacting with the token.  
