@@ -1,6 +1,6 @@
 # Wrapped Bitcoin Core (WBTCC)
 
-![WBTCC Logo](https://wrappedbitcoin.ct.ws/logo.png)
+![WBTCC Logo](https://wrappedbitcoin.ct.ws/wp-content/uploads/2025/09/IMG_0589.jpeg)
 
 ## About Wrapped Bitcoin Core
 
